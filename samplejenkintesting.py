@@ -1,5 +1,5 @@
 import unittest
-from jenkins.py import add
+from samplejenkins.py import add
 
 class TestCalculator(unittest.TestCase):
 
